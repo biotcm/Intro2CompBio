@@ -1,5 +1,5 @@
 ### Introduction To Computational Biology
-_This is an undergraduate class about introduction to computational biology by Professor Shao Li._  
+_This is an advanced undergraduate class about introduction to computational biology by Professor Shao Li. Students should know the junior probability and statistics, linear algebra, and basic calculas before choosing this class. The basic capacity for programming is required._  
 TA: Songpeng Zu and Peng Zhang  
 Created Time: 2015-08-24
 
@@ -12,4 +12,4 @@ Reading papers, and making the presentatons are quite useful for the students, a
 
 In this semester, we covered the useage of R (especially Rcpp, Rmd, ggplot), the basic concepts on statistics (such as maximum likelihood principle, Bayesian formula,  p-value and multiple testing, linear regression), the basic tools on machine learning (logistic regression, PCA, clustering), and the lagrange tool on the optimization. 
   
-We find that we need a unified material or textbooks for their references so that the students can have a good reference for the class. So we plan to summarise our exercise class and write a _textbook_ specific for this task. 
+We find that we need a unified material for their references. So we plan to summarise our exercise class and write a _textbook_ specific for this task. 

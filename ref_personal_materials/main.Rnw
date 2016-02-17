@@ -1,0 +1,33 @@
+\documentclass[12pt,a4paper]{book}
+
+\usepackage{geometry}
+\usepackage{graphicx}
+
+\begin{document}
+%\title{A short material for \textit{Introduction to Computational Biology}}
+%\author{Songpeng Zu\\Department of Automation, Tsinghua University}
+%\date{\today}
+%\maketitle
+\begin{titlepage}
+        \centering
+%	\includegraphics[width=0.15\textwidth]{example-image-1x1}\par\vspace{1cm}
+        {\scshape\LARGE Tsinghua University \par}
+        \vspace{1cm}
+        {\scshape\Large Reference for undergraduate\par}
+        \vspace{1.5cm}
+        {\huge\bfseries A Short Material for \textit{Introduction to Computational Biology}\par}
+        \vspace{2cm}
+        {\Large\itshape Songpeng Zu\par}
+        \vfill
+        supervised by\par
+        Dr. Shao Li
+%        Dr.~Shao~\textsc{Li}
+        \vfill
+% Bottom of the page
+        {\large \today\par}
+\end{titlepage}
+\chapter*{Preface}
+This material is specific for an undergraduate class called {\it Introduction to Computational Biology}, which is taught by Dr. Shao Li
+in Tsinghua University.
+
+\end{document}
